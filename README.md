@@ -85,3 +85,7 @@ Silhouette Score: Μια μετρική που αξιολογεί την ποι�
   pip install -r requirements.txt  # Για Python projects
   python app.py
 
+#Μετά την κλωνοποίηση υπάρχει και η επιλογή μέσω vscode terminal , 
+αφου βρισκόμαστε στον φακελο όπου έγινε η κλωνοποίηση 
+τότε τρεχουμε την εντολή -streamlit run app.py 
+οπου app.py είναι το αρχείο όπου έχει τον κώδικα
